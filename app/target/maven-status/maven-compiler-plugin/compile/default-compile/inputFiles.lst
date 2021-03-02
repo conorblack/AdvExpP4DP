@@ -1,0 +1,16 @@
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/L2BridgingComponent.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/AppConstants.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/Ipv6RoutingComponent.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/pipeconf/PipelinerImpl.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/Srv6Component.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/cli/Srv6ClearCommand.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/pipeconf/PipeconfLoader.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/common/Utils.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/pipeconf/InterpreterImpl.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/cli/package-info.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/cli/Srv6InsertCommand.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/MainComponent.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/NdpReplyComponent.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/common/FabricDeviceConfig.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/cli/Srv6SidCompleter.java
+/mvn-src/src/main/java/org/onosproject/ngsdn/tutorial/P4KnockingComponent.java
