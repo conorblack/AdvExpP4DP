@@ -75,7 +75,9 @@
     ```bash
     sudo git clone https://github.com/p4lang/behavioral-model.git bmv2
     sudo apt-get install automake cmake libjudy-dev libgmp-dev libpcap-dev libboost-dev libboost-test-dev libboost-program-options-dev libboost-system-dev libboost-filesystem-dev libboost-thread-dev libevent-dev libtool flex bison pkg-config g++ libssl-dev
-    cd bmv2/travis/
+    cd bmv2/
+    sudo git checkout 62a013a15ed2c42b1063c26331d73c2560d1e4d0
+    cd travis/
     sudo chmod +x install-thrift.sh
     sudo ./install-thrift.sh
     sudo chmod +x install-nanomsg.sh
