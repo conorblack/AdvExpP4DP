@@ -135,7 +135,7 @@
 
 1. Compile chosen shared library.
     ```bash
-    cd ngsdn-tutorial/attacks
+    cd AdvExpP4DP/attacks
     sudo g++ [ATTACK CODE].cpp -std=c++11 -shared -o ../mininet/[ATTACK LIBRARY].so -fPIC -ldl -ggdb "/home/sdn/boost/lib/libboost_system.so.1.62.0"
     ```
     **Note**: Compiled shared libraries are outputted to the ``mininet`` directory as this is mounted in the ``mininet`` Docker container.
